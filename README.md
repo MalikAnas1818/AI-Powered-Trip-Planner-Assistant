@@ -119,9 +119,6 @@ Cultural spots
 
 ** Recommendations in markdown with emojis 😎 **
 
-## 🌐 Language Support
-If the destination is in a French-speaking country (like France, Belgium, Canada), all responses will be automatically generated in French 🇫🇷 to enhance the user experience.
-
 💡 Future Enhancements
 ✈️ Add flight APIs for live flight prices
 
