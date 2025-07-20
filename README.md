@@ -58,10 +58,6 @@ This project includes:
 ---
 
 ## 🧾 Input Example
-
-Defined inside the script:
-
-```python
 from_city = "Pakistan"
 destination_city = "Dubai"
 date_from = "1st March 2025"
